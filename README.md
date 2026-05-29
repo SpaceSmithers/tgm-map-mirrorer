@@ -7,10 +7,10 @@ Certain elements will not work perfectly. For example, some shuttles (labor shut
 ## How do I use it?
 Drag and drop a map file onto `map_mirrorer.bat`, and it'll export a new file with `_mirrored` to the end of the name.
 
+This is a python script so you might need python
+
 ## How does it work?
 SS13 maps are just coordinate grids that re-use map keys.
-
-This is a python script so you might need python
 
 For example:
 
