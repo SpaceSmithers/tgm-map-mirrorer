@@ -10,6 +10,8 @@ Drag and drop a map file onto `map_mirrorer.bat`, and it'll export a new file wi
 ## How does it work?
 SS13 maps are just coordinate grids that re-use map keys.
 
+This is a python script so you might need python
+
 For example:
 
 `1,1,1 = {
